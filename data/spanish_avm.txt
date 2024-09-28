@@ -1,0 +1,64 @@
+**Nombre del paciente:** Amelia Driscoll  
+**NSS:** 1234567  
+**Fecha de nacimiento:** 12/10/2011  
+**Fecha del encuentro:** 28/09/2024  
+**Proveedor:** Dr. Alfred See, MD  
+**Ubicación:** Clínica de Neurocirugía del Hospital Infantil de Boston  
+**Proveedor remitente:** Dra. Mary Collins, Neurología Pediátrica  
+
+**Motivo de consulta:**  
+Visita de seguimiento tras la cirugía por una ruptura de malformación arteriovenosa (MAV), que requirió craneotomía y embolización.
+
+**Historia de la enfermedad actual:**  
+Amelia Driscoll es una niña de 12 años que acude para su cita de seguimiento con el Dr. Alfred See tras haber sido dada de alta del Hospital Infantil de Boston, después de una craneotomía y embolización para tratar una ruptura de malformación arteriovenosa. La paciente se sometió a una intervención quirúrgica exitosa hace aproximadamente cuatro semanas, y fue dada de alta con recomendaciones de rehabilitación física y órdenes para imágenes de seguimiento.
+
+Desde el alta, los padres de Amelia informan una mejoría gradual en su estado general. Ha cumplido con los ejercicios de rehabilitación prescritos, aunque experimenta fatiga leve durante sesiones más largas. No ha habido aparición de nuevos dolores de cabeza, náuseas ni actividad convulsiva, y Amelia ha mostrado un mejor apetito y nivel de energía en la última semana. Persiste una leve debilidad residual en el lado izquierdo, pero su función motora está mejorando con la terapia física continua.
+
+**Medicamentos:**  
+- Levetiracetam 250 mg dos veces al día (para profilaxis de convulsiones)  
+- Acetaminofén 325 mg según sea necesario (para dolores de cabeza leves)  
+
+**Alergias:**  
+No se conocen alergias a medicamentos.
+
+**Historial quirúrgico:**  
+- Craneotomía y embolización por ruptura de MAV, agosto de 2024.
+
+**Examen físico:**
+
+- **Apariencia general:** Alerta, cooperativa, sin signos de angustia aguda.
+- **Signos vitales:** FC 82 lpm, TA 108/68 mmHg, FR 16/min, Temp 36.8°C, SpO₂ 98% en aire ambiente.
+- **Neurológico:** Nervios craneales II-XII intactos. Leve debilidad motora del lado izquierdo (fuerza 4/5) en extremidades superiores e inferiores, con tono y reflejos normales. Sin evidencia de disfasia ni otros déficits cognitivos.
+- **Cardiovascular:** Ritmo y frecuencia regulares, sin soplos.
+- **Respiratorio:** Campos pulmonares claros a la auscultación bilateral.
+- **Musculoesquelético:** Debilidad en el lado izquierdo notada, pero en mejoría. Rango de movimiento completo en todas las extremidades. Marcha levemente inestable; sin embargo, la paciente es ambulatoria con mínima asistencia.
+  
+**Imágenes:**  
+- **RM Cerebral (30/08/2024):** Cambios postoperatorios observados, sin evidencia de MAV residual ni nueva hemorragia. Edema cerebral leve, en mejoría.
+
+**Evaluación y Plan:**
+1. **Estado post Craneotomía y Embolización por Ruptura de MAV:**  
+   - Amelia se está recuperando bien de la intervención quirúrgica. El plan actual incluye la monitorización continua de cualquier signo de recurrencia de síntomas, incluidos dolores de cabeza, náuseas o actividad convulsiva.
+  
+2. **Profilaxis Anticonvulsiva:**  
+   - Continuar con levetiracetam 250 mg dos veces al día. No se han registrado episodios convulsivos desde la cirugía. Se reevaluará en la próxima visita de seguimiento la necesidad de continuar la profilaxis anticonvulsiva.
+  
+3. **Debilidad en el Lado Izquierdo:**  
+   - La paciente presenta debilidad residual en el lado izquierdo, que está mejorando con terapia física. Se recomienda continuar con las sesiones de terapia física y ocupacional. No se requiere más estudios de imagen en este momento, a menos que los síntomas empeoren.
+
+4. **Progreso de Rehabilitación:**  
+   - Se anima a los padres a mantener la rutina de rehabilitación actual. La fatiga se espera que mejore gradualmente; se recomienda descanso según sea necesario, pero promover la actividad para evitar el descondicionamiento.
+
+5. **Seguimiento:**  
+   - Regresar a la clínica en 6 semanas para una nueva evaluación. Repetir RM cerebral en 3 meses para evaluar la recuperación en curso. Derivación a neuropsicología para una evaluación cognitiva, dada la edad de la paciente y los posibles impactos en el aprendizaje después de la ruptura de MAV.
+
+**Educación y Asesoramiento al Paciente:**  
+Se discutió con los padres de Amelia sobre su progreso y el cronograma esperado de recuperación. Se enfatizó la importancia de adherirse a la terapia física, el régimen de medicamentos y observar cualquier síntoma neurológico nuevo. La familia recibió la información de contacto para consulta inmediata en caso de cualquier cambio agudo.
+
+**Disposición:**  
+Se tranquilizó a la paciente y a su familia sobre su progreso. Se les indicó que contactaran con la oficina ante cualquier preocupación o síntoma. No se identificaron problemas urgentes hoy.
+
+**Firmado electrónicamente por:**  
+Dr. Alfred See, MD  
+Neurocirugía Pediátrica  
+Hospital Infantil de Boston  

@@ -1,0 +1,14 @@
+# Ignore environment variables file
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore log files
+*.log
+
+# Ignore macOS system files
+.DS_Store
+# Ignore log directory
+logs/

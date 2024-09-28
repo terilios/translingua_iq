@@ -1,0 +1,45 @@
+[tool.poetry]
+name = "mqm"
+version = "0.1.0"
+description = "Multi-Language Translation Analysis"
+authors = ["Timothy Driscoll <timothy.driscoll@childrens.harvard.edu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.38.0"
+sacrebleu = "^2.4.3"
+bert-score = "^0.3.13"
+python-dotenv = "^1.0.1"
+openai = "1.3.7"
+nltk = "^3.9.1"
+spacy = "^3.7.6"
+scipy = "^1.14.1"
+sentence-transformers = "^2.7.0"
+PyPDF2 = "^3.0.1"
+python-docx = "^0.8.11"
+bleurt-pytorch = "0.0.1"
+jellyfish = "^0.9.0"
+pandas = "^2.2.3"
+scikit-learn = "^1.5.2"
+transformers = "^4.45.1"
+thinc = "^8.2.5"
+pydantic = "^2.9.2"
+numpy = "^1.26.4"
+colorama = "*"
+requests = "*"
+tqdm = "*"
+packaging = "*"
+regex = "*"
+typing-extensions = "*"
+langdetect = "^1.0.9"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.4.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+start = "python app.py"

@@ -1,0 +1,64 @@
+**Patient Name:** Amelia Driscoll  
+**MRN:** 1234567  
+**DOB:** 10/12/2011  
+**Encounter Date:** 09/28/2024  
+**Provider:** Dr. Alfred See, MD  
+**Location:** Boston Children's Hospital Neurosurgery Clinic  
+**Referring Provider:** Dr. Mary Collins, Pediatric Neurology  
+
+**Chief Complaint:**  
+Follow-up visit post-surgery for an arteriovenous malformation (AVM) rupture, requiring craniotomy and embolization.
+
+**History of Present Illness:**  
+Amelia Driscoll is a 12-year-old female who presents for her follow-up appointment with Dr. Alfred See after recent discharge from Boston Children's Hospital following a craniotomy and embolization to treat an arteriovenous malformation rupture. The patient underwent successful surgical intervention approximately four weeks ago, and she was discharged with physical rehabilitation recommendations and follow-up imaging orders.
+
+Since discharge, Amelia’s parents report gradual improvement in her overall condition. She has been compliant with her prescribed rehabilitation exercises, although she experiences mild fatigue during more extended sessions. There has been no new onset of headaches, nausea, or seizure activity, and Amelia has shown an improved appetite and energy level over the past week. Mild residual left-sided weakness persists, but her motor function is improving with continued physical therapy.
+
+**Medications:**  
+- Levetiracetam 250 mg twice daily (for seizure prophylaxis)  
+- Acetaminophen 325 mg as needed (for mild headaches)  
+
+**Allergies:**  
+No known drug allergies.
+
+**Past Surgical History:**  
+- Craniotomy and embolization for AVM rupture, August 2024.
+
+**Physical Examination:**
+
+- **General Appearance:** Alert, cooperative, in no acute distress.
+- **Vital Signs:** HR 82 bpm, BP 108/68 mmHg, RR 16/min, Temp 98.2°F, SpO₂ 98% on room air.
+- **Neurological:** Cranial nerves II-XII intact. Slight left-sided motor weakness (4/5 strength) in upper and lower extremities, otherwise normal tone and reflexes. No evidence of dysphasia or other cognitive deficits.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Musculoskeletal:** Left-sided weakness noted, but improving. Full range of motion in all extremities. Gait mildly unsteady; however, patient is ambulatory with minimal assistance.
+  
+**Imaging:**  
+- **MRI Brain (08/30/2024):** Post-operative changes noted, with no evidence of residual AVM or new hemorrhage. Mild cerebral edema, improving.
+
+**Assessment and Plan:**
+1. **Status Post Craniotomy and Embolization for AVM Rupture:**  
+   - Amelia is recovering well from the surgical intervention. The current plan includes continued monitoring for any signs of recurrent symptoms, including headaches, nausea, or seizure activity.
+  
+2. **Seizure Prophylaxis:**  
+   - Continue levetiracetam 250 mg twice daily. No seizure episodes since surgery. Will reassess at the next follow-up regarding the necessity of ongoing seizure prophylaxis.
+  
+3. **Left-Sided Weakness:**  
+   - Patient exhibits residual left-sided weakness, which is improving with physical therapy. Recommend continued physical and occupational therapy sessions. No need for additional imaging at this time unless symptoms worsen.
+
+4. **Rehabilitation Progress:**  
+   - Parents encouraged to maintain current rehabilitation routine. Fatigue expected to gradually improve; encourage rest as needed but promote activity to prevent deconditioning.
+
+5. **Follow-Up:**  
+   - Return to clinic in 6 weeks for reassessment. MRI Brain to be repeated in 3 months to evaluate ongoing recovery. Referral to neuropsychology for cognitive assessment, given patient’s age and potential impacts on learning following AVM rupture.
+
+**Patient Education and Counseling:**  
+Discussed Amelia's progress and expected recovery timeline with her parents. Emphasized the importance of adherence to physical therapy, medication regimen, and watching for any new neurological symptoms. Family given contact information for immediate consultation in case of any acute changes.
+
+**Disposition:**  
+Patient and family were reassured about her progress. They are instructed to contact the office with any concerns or symptoms. No urgent issues identified today.
+
+**Electronically Signed by:**  
+Dr. Alfred See, MD  
+Pediatric Neurosurgery  
+Boston Children's Hospital  
