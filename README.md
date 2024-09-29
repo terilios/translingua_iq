@@ -10,34 +10,35 @@ TransLingua IQ combines natural language processing (NLP) models, machine learni
 
 TransLingua IQ utilizes a variety of ML and LLM techniques to achieve its advanced capabilities:
 
-1. **Transformer-based Models**: 
+1. **Transformer-based Models**:
+
    - BERT (Bidirectional Encoder Representations from Transformers) for contextual word embeddings and semantic understanding.
    - MarianMT for neural machine translation tasks.
-
 2. **Large Language Models**:
-   - Integration with Azure OpenAI's GPT-4o for initial assessment and generation of revised translations, leveraging its advanced language understanding and generation capabilities.
 
+   - Integration with Azure OpenAI's GPT-4o for initial assessment and generation of revised translations, leveraging its advanced language understanding and generation capabilities.
 3. **Traditional NLP Techniques**:
+
    - BLEU (Bilingual Evaluation Understudy) for measuring translation adequacy.
    - METEOR (Metric for Evaluation of Translation with Explicit ORdering) for content preservation evaluation.
-
 4. **Advanced Similarity Metrics**:
+
    - Semantic Similarity using SentenceTransformers for understanding meaning preservation.
    - Lexical Similarity with Jaro-Winkler distance for surface-level text comparison.
-
 5. **Named Entity Recognition (NER)**:
+
    - Utilizes spaCy's NER models to evaluate the preservation of named entities across translations.
-
 6. **BERT Score**:
+
    - Leverages BERT embeddings to compute precision, recall, and F1 scores for fluency assessment.
-
 7. **BLEURT (Bilingual Evaluation Understudy with Representations from Transformers)**:
+
    - A learned metric based on BERT that evaluates translation quality with high correlation to human judgments.
-
 8. **Unsupervised Learning**:
-   - K-means clustering for grouping similar improvements in translation quality.
 
+   - K-means clustering for grouping similar improvements in translation quality.
 9. **Statistical Analysis**:
+
    - Utilizes libraries like pandas and scikit-learn for in-depth statistical analysis of translation improvements.
 
 ## Features
@@ -52,8 +53,8 @@ TransLingua IQ utilizes a variety of ML and LLM techniques to achieve its advanc
   - Semantic Similarity
   - Lexical Similarity
   - BLEURT Score
-- **AI-Powered Assessment**: Initial assessment of translation quality using Azure OpenAI's GPT-4.
-- **Intelligent Revision**: Generation of revised translations based on the initial assessment, leveraging GPT-4's language generation capabilities.
+- **AI-Powered Assessment**: Initial assessment of translation quality using Azure OpenAI's GPT-4o.
+- **Intelligent Revision**: Generation of revised translations based on the initial assessment, leveraging GPT-4o's language generation capabilities.
 - **Comparative Analysis**: Detailed comparison of original and revised translations with insights.
 - **Statistical Insights**: In-depth statistical analysis of translation improvements using machine learning techniques.
 - **Interactive Visualization**: User-friendly web interface built with Streamlit for easy interaction and result visualization.
@@ -61,25 +62,26 @@ TransLingua IQ utilizes a variety of ML and LLM techniques to achieve its advanc
 ## Setup
 
 1. Clone the repository:
+
    ```
    git clone https://github.com/yourusername/translingua_iq.git
    cd translingua_iq
    ```
-
 2. Install dependencies using Poetry:
+
    ```
    poetry install
    ```
-
 3. Install required language models:
+
    ```
    python -m spacy download en_core_web_sm
    python -m spacy download es_core_web_sm
    # Add commands for other language models as needed
    ```
-
 4. Set up environment variables:
    Create a `.env` file in the project root and add your API keys:
+
    ```
    AZURE_OPENAI_API_KEY=your_azure_openai_api_key
    AZURE_OPENAI_API_BASE=your_azure_openai_api_base
@@ -112,4 +114,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - This project utilizes various open-source libraries and pre-trained models. We're grateful to the AI and NLP research community for their invaluable contributions.
-- Special thanks to the Azure OpenAI team for providing access to the GPT-4 model, which significantly enhances our translation assessment capabilities.
+- Special thanks to the Azure OpenAI team for providing access to the GPT-4o model, which significantly enhances our translation assessment capabilities.
