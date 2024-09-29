@@ -1,9 +1,12 @@
 [tool.poetry]
-name = "mqm"
+name = "translingua_iq"
 version = "0.1.0"
 description = "Multi-Language Translation Analysis"
 authors = ["Timothy Driscoll <timothy.driscoll@childrens.harvard.edu>"]
 readme = "README.md"
+packages = [
+    { include = "translingua_iq" },
+]
 
 [tool.poetry.dependencies]
 python = "^3.10"
@@ -18,7 +21,6 @@ scipy = "^1.14.1"
 sentence-transformers = "^2.7.0"
 PyPDF2 = "^3.0.1"
 python-docx = "^0.8.11"
-bleurt-pytorch = "0.0.1"
 jellyfish = "^0.9.0"
 pandas = "^2.2.3"
 scikit-learn = "^1.5.2"
@@ -33,6 +35,7 @@ packaging = "*"
 regex = "*"
 typing-extensions = "*"
 langdetect = "^1.0.9"
+tensorflow = "^2.15.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.4.4"
@@ -42,4 +45,4 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
-start = "python app.py"
+start = "translingua_iq.src.app:main"
