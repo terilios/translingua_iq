@@ -24,6 +24,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Statistical analysis on translation improvements.
 - Interactive web interface built with Streamlit.
 
+### Changed
+- Updated project dependencies in pyproject.toml.
+- Improved error handling for Azure OpenAI API calls.
+
+### Fixed
+- Resolved issues with Spanish language model in spaCy by installing es_core_news_sm.
+
 ## [0.1.0] - 2023-09-28
 ### Added
 - Initial release of the Multi-Language Translation Quality Metrics (MQM) Analyzer.
