@@ -18,7 +18,7 @@ This project implements an advanced Multidimensional Quality Metrics (MQM) analy
   - Semantic Similarity
   - Lexical Similarity
   - BLEURT Score
-- Provide initial assessment of translation quality using Azure OpenAI's GPT-4
+- Provide initial assessment of translation quality using Azure OpenAI's GPT-4o
 - Generate revised translations based on the initial assessment
 - Compare original and revised translations with detailed insights
 - Perform statistical analysis on translation improvements
@@ -106,7 +106,7 @@ This project uses several key libraries and tools:
 - spaCy for multi-language named entity recognition
 - SentenceTransformer for semantic similarity
 - NLTK for METEOR score
-- Azure OpenAI for GPT-4 powered assessments and improvements
+- Azure OpenAI for GPT-4o powered assessments and improvements
 - PyPDF2 and python-docx for handling PDF and DOCX files
 - pandas and scikit-learn for statistical analysis
 - langdetect for automatic language detection
