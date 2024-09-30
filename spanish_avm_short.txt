@@ -1,0 +1,42 @@
+**Nombre del paciente:** Amelia Driscoll  
+**NSS:** 1234567  
+**Fecha de nacimiento:** 12/10/2011  
+**Fecha del encuentro:** 28/09/2024  
+**Proveedor:** Dr. Alfred See, MD  
+**Ubicación:** Clínica de Neurocirugía del Hospital Infantil de Boston  
+
+**Motivo de consulta:**  
+Visita de seguimiento tras ruptura de MAV, craneotomía y embolización.
+
+**Historia de la enfermedad actual:**  
+Amelia es una niña de 12 años que acude para seguimiento tras craneotomía y embolización por ruptura de MAV hace 4 semanas. Desde el alta, la condición de Amelia ha mejorado gradualmente. Los padres reportan buena adherencia a la rehabilitación y ausencia de nuevos síntomas como dolores de cabeza o convulsiones. Persiste leve debilidad en el lado izquierdo, pero muestra mejoría constante.
+
+**Medicamentos:**  
+- Levetiracetam 250 mg dos veces al día (para prevención de convulsiones)  
+- Acetaminofén 325 mg según sea necesario (para dolores de cabeza leves)  
+
+**Examen físico:**
+
+- **General:** Alerta, sin signos de angustia.
+- **Neurológico:** Nervios craneales intactos. Leve debilidad en el lado izquierdo (fuerza 4/5). Sin problemas de habla o cognitivos.
+- **Musculoesquelético:** Leve debilidad en el lado izquierdo, en mejoría. Marcha ligeramente inestable, ambulatoria.
+
+**Imágenes recientes:**  
+- **RM Cerebral (30/08/2024):** Cambios postoperatorios, sin nueva hemorragia, edema leve en resolución.
+
+**Evaluación y Plan:**
+1. **Post-Craneotomía/Embolización:** Recuperación adecuada. Continuar monitoreo.
+2. **Profilaxis anticonvulsiva:** Continuar levetiracetam, reevaluar en próxima cita.
+3. **Rehabilitación:** Continuar terapia física/ocupacional, fatiga esperada a mejorar.
+4. **Seguimiento:** Visita en clínica en 6 semanas; RM en 3 meses. Derivación a neuropsicología para evaluación de aprendizaje.
+
+**Educación al paciente:**  
+Se revisó el progreso de Amelia con sus padres. Se reforzó la adherencia a los medicamentos, la rehabilitación continua y observar la aparición de nuevos síntomas. Se proporcionaron detalles de contacto para cualquier preocupación.
+
+**Disposición:**  
+Sin problemas urgentes. Seguimiento según lo planificado.
+
+**Firmado por:**  
+Dr. Alfred See, MD  
+Neurocirugía Pediátrica  
+Hospital Infantil de Boston 

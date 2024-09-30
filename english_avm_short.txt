@@ -1,0 +1,42 @@
+**Patient Name:** Amelia Driscoll  
+**MRN:** 1234567  
+**DOB:** 10/12/2011  
+**Encounter Date:** 09/28/2024  
+**Provider:** Dr. Alfred See, MD  
+**Location:** Boston Children's Hospital Neurosurgery Clinic  
+
+**Chief Complaint:**  
+Follow-up visit post-AVM rupture, craniotomy, and embolization.
+
+**History of Present Illness:**  
+Amelia is a 12-year-old female presenting for follow-up after craniotomy and embolization for an AVM rupture. The surgery was 4 weeks ago. Since discharge, Amelia's condition has improved gradually. Parents report good compliance with rehabilitation and no new symptoms like headaches or seizures. Mild left-sided weakness persists but shows steady improvement.
+
+**Medications:**  
+- Levetiracetam 250 mg BID (for seizure prevention)  
+- Acetaminophen 325 mg PRN (for mild headaches)  
+
+**Physical Examination:**
+
+- **General:** Alert, in no distress.
+- **Neurological:** Cranial nerves intact. Mild left-sided weakness (4/5 strength). No speech or cognitive issues.
+- **Musculoskeletal:** Mild weakness on the left side, improving. Gait mildly unstable, ambulatory.
+
+**Recent Imaging:**  
+- **MRI Brain (08/30/2024):** Post-op changes, no new hemorrhage, mild resolving edema.
+
+**Assessment and Plan:**
+1. **Post-Craniotomy/Embolization:** Recovering well. Continue monitoring.
+2. **Seizure Prophylaxis:** Continue levetiracetam, reassess at next visit.
+3. **Rehabilitation:** Continue PT/OT, fatigue expected to improve.
+4. **Follow-Up:** Clinic visit in 6 weeks; MRI in 3 months. Neuropsychology referral for learning assessment.
+
+**Patient Education:**  
+Reviewed Amelia's progress with her parents. Reinforced medication compliance, continued rehabilitation, and observing for new symptoms. Contact details provided for concerns.
+
+**Disposition:**  
+No urgent issues. Follow-up as planned.
+
+**Signed by:**  
+Dr. Alfred See, MD  
+Pediatric Neurosurgery  
+Boston Children's Hospital  
